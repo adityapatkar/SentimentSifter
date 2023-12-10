@@ -17,6 +17,7 @@ SentimentSifter is a project focused on the sentiment analysis of tweets using t
 
 ## Usage
 
+- Check out the `Project_EDA.ipynb` notebook for a detailed analysis of the dataset.
 - Navigate to the `classical_ml` or `deep_learning` folders to explore different approaches.
 - Follow the Jupyter notebooks for step-by-step instructions.
 
